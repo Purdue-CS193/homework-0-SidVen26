@@ -13,10 +13,11 @@ Syntax highlighted code block
 
 # Siddhi Venkat's First CS193 Homework!
 ## Header 2
-### Header 3
+### Things I love about CS193
 
-- Bulleted
-- List
+- GitHub
+- Magic words
+- Ice breaker questions 
 
 1. Numbered
 2. List
